@@ -144,8 +144,8 @@ if __name__ == "__main__":
     sercx = 8080
     keyw = "dd42017e-379f-419d-9a7d-924caf1e6055"
     vlua = "/yhtfy"
-    vmrx = "/yhtfy"
-    trae = "/yhtfy"
+    vmrx = "/yjhvj"
+    trae = "/igkbj"
     hjio8ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0"
     ojokn = ("fs0VfnQ3YlJXakdCI6cyZhR3JgwyJt9GZlVmcmdCI6cCbvN2b09mcwdyebBiOnMHZuV3biRXdvdCIs03Jl52budCI6cCb"
              "lZXZsd2bsdyegozJn9GbnwSfd1XZ1JHVgozJkVGbiFmbldCIscCdjVmcpR2JgozJnFGVk5WdvJGd192JgwyJ1MTN1YTLwc"
